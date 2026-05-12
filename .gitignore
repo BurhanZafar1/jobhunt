@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+output/jobs_*.csv
+output/jobs_raw_*.csv
+output/jobs_latest.csv
+.DS_Store
